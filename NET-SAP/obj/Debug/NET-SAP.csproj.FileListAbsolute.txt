@@ -1,0 +1,43 @@
+c:\users\hasan.arslan\documents\visual studio 2012\Projects\NET-SAP\NET-SAP\bin\Debug\NET-SAP.exe.config
+c:\users\hasan.arslan\documents\visual studio 2012\Projects\NET-SAP\NET-SAP\bin\Debug\NET-SAP.exe
+c:\users\hasan.arslan\documents\visual studio 2012\Projects\NET-SAP\NET-SAP\bin\Debug\NET-SAP.pdb
+c:\users\hasan.arslan\documents\visual studio 2012\Projects\NET-SAP\NET-SAP\bin\Debug\sapnco.dll
+c:\users\hasan.arslan\documents\visual studio 2012\Projects\NET-SAP\NET-SAP\bin\Debug\sapnco_utils.dll
+c:\users\hasan.arslan\documents\visual studio 2012\Projects\NET-SAP\NET-SAP\obj\Debug\NET-SAP.csprojResolveAssemblyReference.cache
+c:\users\hasan.arslan\documents\visual studio 2012\Projects\NET-SAP\NET-SAP\obj\Debug\NET-SAP.exe
+c:\users\hasan.arslan\documents\visual studio 2012\Projects\NET-SAP\NET-SAP\obj\Debug\NET-SAP.pdb
+D:\Projeler\--- Çalışmalar ---\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\bin\Debug\NET-SAP.exe.config
+D:\Projeler\--- Çalışmalar ---\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\obj\Debug\NET-SAP.exe
+D:\Projeler\--- Çalışmalar ---\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\obj\Debug\NET-SAP.pdb
+D:\Projeler\--- Çalışmalar ---\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\bin\Debug\NET-SAP.exe
+D:\Projeler\--- Çalışmalar ---\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\bin\Debug\NET-SAP.pdb
+D:\Projeler\--- Çalışmalar ---\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\bin\Debug\sapnco.dll
+D:\Projeler\--- Çalışmalar ---\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\bin\Debug\sapnco_utils.dll
+D:\Projeler\--- Çalışmalar ---\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\obj\Debug\NET-SAP.csprojResolveAssemblyReference.cache
+D:\Projects\--- Çalışmalar ---\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\bin\Debug\NET-SAP.exe.config
+D:\Projects\--- Çalışmalar ---\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\obj\Debug\NET-SAP.exe
+D:\Projects\--- Çalışmalar ---\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\obj\Debug\NET-SAP.pdb
+C:\Users\hasan.arslan\Desktop\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\bin\Debug\NET-SAP.exe.config
+C:\Users\hasan.arslan\Desktop\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\obj\Debug\NET-SAP.exe
+C:\Users\hasan.arslan\Desktop\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\obj\Debug\NET-SAP.pdb
+C:\Users\hasan.arslan\Desktop\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\bin\Debug\NET-SAP.exe
+C:\Users\hasan.arslan\Desktop\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\bin\Debug\NET-SAP.pdb
+C:\Users\hasan.arslan\Desktop\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\bin\Debug\sapnco.dll
+C:\Users\hasan.arslan\Desktop\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\bin\Debug\sapnco_utils.dll
+C:\Users\hasan.arslan\Desktop\SAP.Connector3.0 - 2 (cehars)\_net connector 3.0 kod\NET-SAP\NET-SAP\obj\Debug\NET-SAP.csprojResolveAssemblyReference.cache
+C:\Users\hasan.arslan\Desktop\NET-SAP-Entegrasyon-master\NET-SAP-Entegrasyon-master\NET-SAP\NET-SAP\bin\Debug\NET-SAP.exe.config
+C:\Users\hasan.arslan\Desktop\NET-SAP-Entegrasyon-master\NET-SAP-Entegrasyon-master\NET-SAP\NET-SAP\obj\Debug\NET-SAP.exe
+C:\Users\hasan.arslan\Desktop\NET-SAP-Entegrasyon-master\NET-SAP-Entegrasyon-master\NET-SAP\NET-SAP\obj\Debug\NET-SAP.pdb
+C:\Users\hasan.arslan\Desktop\NET-SAP-Entegrasyon-master\NET-SAP-Entegrasyon-master\NET-SAP\NET-SAP\bin\Debug\NET-SAP.exe
+C:\Users\hasan.arslan\Desktop\NET-SAP-Entegrasyon-master\NET-SAP-Entegrasyon-master\NET-SAP\NET-SAP\bin\Debug\NET-SAP.pdb
+C:\Users\hasan.arslan\Desktop\NET-SAP-Entegrasyon-master\NET-SAP-Entegrasyon-master\NET-SAP\NET-SAP\bin\Debug\sapnco.dll
+C:\Users\hasan.arslan\Desktop\NET-SAP-Entegrasyon-master\NET-SAP-Entegrasyon-master\NET-SAP\NET-SAP\bin\Debug\sapnco_utils.dll
+C:\Users\hasan.arslan\Desktop\NET-SAP-Entegrasyon-master\NET-SAP-Entegrasyon-master\NET-SAP\NET-SAP\obj\Debug\NET-SAP.csprojResolveAssemblyReference.cache
+C:\Users\hasan.arslan\Desktop\github\NET-SAP\NET-SAP\bin\Debug\NET-SAP.exe.config
+C:\Users\hasan.arslan\Desktop\github\NET-SAP\NET-SAP\bin\Debug\NET-SAP.exe
+C:\Users\hasan.arslan\Desktop\github\NET-SAP\NET-SAP\bin\Debug\NET-SAP.pdb
+C:\Users\hasan.arslan\Desktop\github\NET-SAP\NET-SAP\bin\Debug\sapnco.dll
+C:\Users\hasan.arslan\Desktop\github\NET-SAP\NET-SAP\bin\Debug\sapnco_utils.dll
+C:\Users\hasan.arslan\Desktop\github\NET-SAP\NET-SAP\obj\Debug\NET-SAP.csprojResolveAssemblyReference.cache
+C:\Users\hasan.arslan\Desktop\github\NET-SAP\NET-SAP\obj\Debug\NET-SAP.exe
+C:\Users\hasan.arslan\Desktop\github\NET-SAP\NET-SAP\obj\Debug\NET-SAP.pdb
